@@ -1,0 +1,12 @@
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python's design philosophy emphasizes code readability and a syntax that allows programmers to express concepts in fewer lines of code compared to other programming languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python has a large standard library and a vibrant ecosystem of third-party packages, making it suitable for a wide range of applications, from web development to data analysis and artificial intelligence.
+
+    Key functions in python are print(), input(), len(), range(), type(), int(), str(), list(), dict(), set(), tuple(), open(), close(), read(), write(), append(), insert(), remove(), pop(), sort(), reverse(), split(), join(), strip(), replace() and many more.
+
+    Key libraries in python are numpy, pandas, matplotlib, seaborn, scikit-learn, tensorflow, keras, pytorch, flask, django, requests, beautifulsoup4 and many more.
+
+    Key topics in python are variables, data types, operators, control flow, functions, modules, packages, file handling, exceptions, classes and objects, inheritance, polymorphism, encapsulation, abstraction and many more.
+
+    Most difficult topics in python are metaclasses, decorators, generators, context managers, coroutines, async/await, multiprocessing, threading, memory management, garbage collection and many more.
+
+    Different applications of python are web development, data analysis, machine learning, artificial intelligence, scientific computing, automation, scripting, game development and many more.
+    
