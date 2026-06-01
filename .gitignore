@@ -19,3 +19,6 @@ wheels/
 # Generated vector stores (rebuilt from data/)
 faiss_store/
 data/vector_store/
+
+# Local-only assets (portfolio banner, etc.)
+assets/
